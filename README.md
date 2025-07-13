@@ -16,11 +16,11 @@ This repository contains materials for setting up and running a Yahboom Raspberr
 ├── slides/
 │   └── Yahboom_Pi_Putty_Connection.pptx    # PuTTY connection tutorial slides
 ├── docs/
-│   ├── line_following_documentation.pdf   # Basic PDF documentation
-│   ├── line_following_styled_documentation.pdf       # Styled PDF documentation
-│   └── line_following_styled_documentation_authors.pdf  # Styled PDF with authors
+│   ├── line_following_documentation.pdf   #  PDF documentation
 ├── code/
 │   └── line_following.py                  # Main Python line-following script
+├── img/
+│   └── imges                 # Images and assets (wiring diagrams, screenshots)
 └── README.md                              # This file
 ```
 
